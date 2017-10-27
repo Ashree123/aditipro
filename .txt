@@ -29,3 +29,10 @@ String fi=a.concat(b);
 System.out.println(fi);
 }
 }
+public class ad
+{
+public static void main()
+{
+System.out.println("no error");
+}
+}
